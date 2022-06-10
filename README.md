@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cytsai1008&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="cytsai1008" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cytsai1008&theme=algolia&no-frame=truee" alt="cytsai1008" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cytsai1008&theme=algolia&no-frame=true&column=-1" alt="cytsai1008" /></a> </p>
 
 - 🔭 I’m currently working on [cytsai1008.github.io](https://github.com/cytsai1008/cytsai1008.github.io) and [DiscordVoice](https://github.com/cytsai1008/DiscordVoice)
 
