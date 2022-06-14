@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CYTsai (aka Saito Kenichi)</h1>
+<h1 align="center">Hi , I'm CYTsai</h1>
 <h3 align="center">A high school student from Taiwan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cytsai1008&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="cytsai1008" /> </p>
