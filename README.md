@@ -24,7 +24,7 @@
 
  **<h3 align="left">Skills</h3>**
 
-<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=c" height="32" alt="C"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=cpp" height="32" alt="C++"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=azure" height="32" alt="Azure"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=gcp" height="32" alt="GCP"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker"/></td></table>
+<table style="width: 100%; border: 0px solid white;" align="center"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=c" height="32" alt="C"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=cpp" height="32" alt="C++"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=azure" height="32" alt="Azure"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=gcp" height="32" alt="GCP"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker"/></td></table>
 
  **<h3 align="left">GitHub Stats</h3>**
  
@@ -36,9 +36,7 @@
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cytsai1008&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cytsai1008&show_icons=true&theme=react&locale=en&&hide=html&layout=compact&card_width=400" alt="GitHub Top-Langs Card" />
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cytsai1008&show_icons=true&theme=react&locale=en&hide=html&layout=compact&card_width=800" alt="GitHub Top-Langs Card" />
 </p>
-
 
 ![](https://hit.yhype.me/github/profile?user_id=47322522)
