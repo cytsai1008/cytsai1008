@@ -24,11 +24,31 @@
 
  **<h3 align="left">Skills</h3>**
 
-<table style="width: 100%; border: 0px solid white;" align="center"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=c" height="32" alt="C"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=cpp" height="32" alt="C++"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=azure" height="32" alt="Azure"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=gcp" height="32" alt="GCP"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker"/></td></table>
+<table style="width: 100%; border: 0px solid white;" align="center">
+  <tr>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=c" height="32" alt="C"/>
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="C++"/>
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/>
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=azure" height="32" alt="Azure"/>
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=gcp" height="32" alt="GCP"/>
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker"/>
+    </td>
+</table>
 
  **<h3 align="left">GitHub Stats</h3>**
  
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cytsai1008&theme=algolia&no-frame=true&column=-1" alt="cytsai1008" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="96.5%" src="https://github-profile-trophy.vercel.app/?username=cytsai1008&theme=algolia&no-frame=true&column=-1" alt="cytsai1008" /></a> </p>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cytsai1008&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
