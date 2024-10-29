@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cytsai1008&show_icons=true&theme=react&locale=en&hide=html&layout=compact&card_width=800" alt="GitHub Top-Langs Card" />
+  <img width="96.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cytsai1008&show_icons=true&theme=react&locale=en&hide=html&layout=compact&card_width=800" alt="GitHub Top-Langs Card" />
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=47322522)
