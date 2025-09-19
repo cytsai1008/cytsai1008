@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cytsai1008&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="cytsai1008" /> </p>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://github.com/cytsai1008" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:cytsai@mail.photocat.blue" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Saito_Kenichi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center"><a href="https://github.com/cytsai1008" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://mail.photocat.blue" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Saito_Kenichi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 **<h3 align="left">Rapid Fire</h3>**
 
