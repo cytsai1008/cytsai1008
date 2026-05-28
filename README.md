@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg?v=2">
-  <img src="banner-light.svg?v=2" width="100%" alt="CYTsai / Kenichi — Developer · Furry · Photographer · Taiwan" />
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" width="100%" alt="CYTsai / Kenichi — Developer · Furry · Photographer · Taiwan" />
 </picture>
 
 <br/>
