@@ -1,62 +1,89 @@
-![👋 Hi, my name is CYTsai, A university student in Taiwan](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<div align="center">
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is CYTsai, A university student in Taiwan
-      </h1>
-    </summary>
-  </ul>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" width="100%" alt="CYTsai / Kenichi — Developer · Furry · Photographer · Taiwan" />
+</picture>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cytsai1008)&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.photocat.blue)&nbsp;[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Saito_Kenichi_)&nbsp;[![Website](https://img.shields.io/badge/photocat.blue-1DA1F2?style=for-the-badge)](https://photocat.blue)&nbsp;[![Profile Views](https://komarev.com/ghpvc/?username=cytsai1008&style=for-the-badge&color=blue&label=visitors)](https://github.com/cytsai1008)
+
+<br/>
+
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cytsai1008&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="cytsai1008" /> </p>
+---
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://github.com/cytsai1008" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://mail.photocat.blue" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Saito_Kenichi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+Previously at [@HCHS-CSDC](https://github.com/HCHS-CSDC) and [@PixelGameMaker](https://github.com/PixelGameMaker). Picking up Japanese and German between commits.
 
-**<h3 align="left">Rapid Fire</h3>**
+---
 
-- 💼 I'm currently working on: **💻 Multiple personal projects**
-- 🌱 I'm currently learning: **📚 Computer Science, English, Japanese, German**
-- 🗂️ My projects: [https://github.com/cytsai1008?tab=repositories](https://github.com/cytsai1008?tab=repositories)
-- 🔗 My other social account: [https://link.photocat.blue](https://link.photocat.blue)
+### 🛠 Things I've built
 
- **<h3 align="left">Skills</h3>**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<table style="width: 100%; border: 0px solid white;" align="center">
-  <tr>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=c" height="32" alt="C"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="C++"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=azure" height="32" alt="Azure"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=gcp" height="32" alt="GCP"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker"/>
-    </td>
+#### [DiscordVoice](https://github.com/cytsai1008/DiscordVoice)
+My longest-running project. Discord bots with TTS via Azure Cognitive Services and Google TTS. No longer maintained, but still running on Heroku for the foreseeable future. Planning to rewrite with a better architecture and more features.
+
+`Python` · `Azure` · `Google TTS` · `Heroku`
+
+</td>
+<td width="50%" valign="top">
+
+#### [kenichi-profile](https://github.com/cytsai1008/kenichi-profile)
+A site about my life as a furry and photographer. Astro frontend, Vue components, TypeScript, Go backend. Live at [kenichi.photocat.blue](https://kenichi.photocat.blue).
+
+`Astro` · `Vue` · `TypeScript` · `Go`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [ShareURLCleaner](https://github.com/cytsai1008/ShareURLCleaner)
+Android share-sheet app that strips tracking parameters from URLs before you paste or forward them — because Meta loves adding trackers that let anyone link back to your private accounts.
+
+`Kotlin` · `Android`
+
+</td>
+<td width="50%" valign="top">
+
+#### [let-me-sleep](https://github.com/cytsai1008/let-me-sleep)
+Tiny system tray tool that tells you which app is keeping your PC awake. More useful than it sounds at 3am.
+
+`Python` · `Rust` · `Inno Setup`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [kenichi-links](https://github.com/cytsai1008/kenichi-links)
+Personal link-in-bio landing page with avatar and blurred cover image. Configured from a single TypeScript data file. Live at [link.photocat.blue](https://link.photocat.blue).
+
+`Astro` · `TypeScript` · `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+#### [mail\_captcha](https://github.com/cytsai1008/mail_captcha)
+Cloudflare Worker that protects a contact email from bots — runs reCAPTCHA v3 in the browser, verifies server-side, and only reveals the address on a passing score. Live at [mail.photocat.blue](https://mail.photocat.blue).
+
+`Cloudflare Workers` · `JavaScript` · `reCAPTCHA v3`
+
+</td>
+</tr>
 </table>
 
- **<h3 align="left">GitHub Stats</h3>**
- 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="96.5%" src="https://github-profile-trophy.vercel.app/?username=cytsai1008&theme=algolia&no-frame=true&column=-1" alt="cytsai1008" /></a> </p>
+more at [github.com/cytsai1008?tab=repositories](https://github.com/cytsai1008?tab=repositories)
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cytsai1008&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=cytsai1008&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
+---
 
-<p align="left">
-  <img width="96.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cytsai1008&show_icons=true&theme=react&locale=en&hide=html&layout=compact&card_width=800" alt="GitHub Top-Langs Card" />
-</p>
+### 📈 Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cytsai1008&theme=react-dark&hide_border=true&area=true&hide_title=true)](https://github.com/cytsai1008)
 
 ![](https://hit.yhype.me/github/profile?user_id=47322522)
