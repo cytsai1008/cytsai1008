@@ -15,7 +15,7 @@
 
 ---
 
-Previously at [@HCHS-CSDC](https://github.com/HCHS-CSDC) and [@PixelGameMaker](https://github.com/PixelGameMaker). Picking up Japanese and German between commits.
+Previously at [@HCHS-CSDC](https://github.com/HCHS-CSDC) and [@PixelGameMaker](https://github.com/PixelGameMaker).
 
 ---
 
