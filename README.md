@@ -15,7 +15,7 @@
 
 ---
 
-Previously at [@HCHS-CSDC](https://github.com/HCHS-CSDC) and [@PixelGameMaker](https://github.com/PixelGameMaker).
+Previously at [@HCHS-CSDC](https://github.com/HCHS-CSDC) and [@PixelGameMaker](https://github.com/PixelGameMaker). Currently helping medical institution go digital with FHIR.
 
 ---
 
